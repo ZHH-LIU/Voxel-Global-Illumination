@@ -1,0 +1,31 @@
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(LearnOpenGL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+F:\GIT\Projects\VXGI\LearnOpenGL\src\font.h(142,33): warning C4838: 从“FT_Pos”转换到“GLuint”需要收缩转换
+F:\GIT\Projects\VXGI\LearnOpenGL\src\fps.h(39,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GIT\Projects\VXGI\LearnOpenGL\src\light.h(94,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\RSM.h(70,24): warning C4305: “初始化”: 从“double”到“float”截断
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\RSM.h(71,32): warning C4305: “初始化”: 从“double”到“float”截断
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(46,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(55,24): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(128,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(166,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(174,30): warning C4018: “<”: 有符号/无符号不匹配
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(233,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(241,30): warning C4018: “<”: 有符号/无符号不匹配
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(271,68): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(271,101): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\GIT\Projects\VXGI\LearnOpenGL\src\GI3D\VXGI.h(326,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\GIT\Projects\VXGI\LearnOpenGL\src\main.cpp(216,55): warning C4305: “参数”: 从“double”到“float”截断
+F:\GIT\Projects\VXGI\LearnOpenGL\src\main.cpp(218,60): warning C4305: “参数”: 从“double”到“float”截断
+F:\GIT\Projects\VXGI\LearnOpenGL\src\main.cpp(220,60): warning C4305: “参数”: 从“double”到“float”截断
+F:\GIT\Projects\VXGI\LearnOpenGL\src\main.cpp(222,60): warning C4305: “参数”: 从“double”到“float”截断
+F:\GIT\Projects\VXGI\LearnOpenGL\src\main.cpp(224,54): warning C4305: “参数”: 从“double”到“float”截断
+  LearnOpenGL.vcxproj -> F:\GIT\Projects\VXGI\x64\Debug\VXGI.exe
